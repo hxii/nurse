@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Base URL for the script and checksum
-BASE_URL="https://github.com/hxii/nurse/releases/latest/download"
+BASE_URL="https://raw.githubusercontent.com/hxii/nurse/main"
 
 # Script and checksum file names
 SCRIPT_NAME="nurse.sh"

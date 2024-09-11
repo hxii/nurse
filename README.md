@@ -10,4 +10,4 @@ Nurse is a simple environment status script (sometimes called diagnostics script
 
 ## Usage
 
-Run `curl https://github.com/hxii/nurse/releases/latest/download/run.sh | bash`
+Run `curl https://raw.githubusercontent.com/hxii/nurse/main/run.sh | bash`
